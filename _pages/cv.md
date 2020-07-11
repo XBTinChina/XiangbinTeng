@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D  Department of Psychology, New York University, 2017
 * M.S.  School of Psychological and Cognitive Sciences, Peking University, 2012
-* B.S.  School of Chemistry and Chemical Engineering, GitHub University, 2007
+* B.S.  School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, 2007
 
 Work experience
 ======
