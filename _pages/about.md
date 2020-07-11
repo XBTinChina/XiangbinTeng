@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc researcher working in Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany ([website](https://www.aesthetics.mpg.de/en/the-institute/people/xiangbin-teng.html)). I use MEG/EEG/fMRI/Psychophysics/Modelling to study auditory perception, with a focus on speech, music and temporal processing. Before, I gained my Ph.D from New York University working with [David Poeppel](https://as.nyu.edu/faculty/david-poeppel.html). My CV can be found ** [here](https://www.dropbox.com/s/k87n7mni4770a5k/CURRICULUM%20VITAE.pdf?dl=0) **.
+I am a postdoc researcher working in Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. I use MEG/EEG/fMRI/Psychophysics/Modelling to study auditory perception, with a focus on speech, music and temporal processing. Before, I gained my Ph.D from New York University working with [David Poeppel](https://as.nyu.edu/faculty/david-poeppel.html). 
+[**Institute webpage**](https://www.aesthetics.mpg.de/en/the-institute/people/xiangbin-teng.html)  
+[**Full CV**](https://www.dropbox.com/s/k87n7mni4770a5k/CURRICULUM%20VITAE.pdf?dl=0)
 
 A data-driven personal websitedsf
 ======
