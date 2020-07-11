@@ -43,17 +43,17 @@ Publications
 10. Wu, M., Li, H., Gao, Y., Lei, M., Teng, X., Wu, X., & Li, L. (2012). Adding irrelevant information to the content prime reduces the prime-induced unmasking effect on speech recognition. Hearing research, 283(1-2), 136-143. 
  
  
-* Conference Proceeding (Peer-reviewed):
+  *Conference Proceeding (Peer-reviewed):*
 1. Shrestha M, Teng X, Lee S, Noeth U, Poeppel D, Deichmann R (2020). Functional MRI of the Auditory Cortex: Comparison of Different Sequences to investigate Speech and Amplitude Modulated Sounds. In: Proceedings of the 28th annual meeting of ISMRM.
 2. Kong F, Wang X, Teng X, Zheng N, Yu G, Meng Q (2019). Reverberant speech recognition with actual cochlear implants: verifying a pulsatile vocoder simulation method. In: Proceedings of the 23rd International Congress on Acoustics
 3. Teng, X., Poeppel, D. (2019) Experimental evidence on computational mechanisms of concurrent temporal channels for auditory processing, Cognitive Computational Neuroscience 2019
  
  
-* Book chapter and review:
+  *Book chapter and review:*
 1. Poeppel, D & Teng, X. (submitted) Entrainment in Human Auditory Cortex: Mechanism and Functions
  
  
-* Not yet published:
+  *Not yet published:*
 1. Teng, X., Larrouy-Maestri, P., Poeppel, D. Musical Phrase Tracking and Phase Precession at Ultra-lowFrequencies of EEG Recording (manuscript ready, EEG, MCCA, TRF, and second-order FFT) 
 2. Teng, X.,Poeppel, D. Modulation Spectra Capture Characteristic Neural Responses to Speech Signals in the Delta Band (manuscript ready, EEG, decoding, 1/f)
 3. Teng, X.,Poeppel, D. Cognitive Temporal Map Aids Detection of Future Auditory Events and Modulates Alpha-Beta Oscillations (analyses done, preparing manuscript, EEG, new clustering methods across subjects in 2D spectral domain)
