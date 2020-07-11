@@ -9,8 +9,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Deep Learning"
+    url: /deep-learning/    
         
   - title: "Blog Posts"
     url: /year-archive/
