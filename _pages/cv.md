@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV can be found [**here**](https://www.dropbox.com/s/k87n7mni4770a5k/CURRICULUM%20VITAE.pdf?dl=0)
+
 Education
 ======
 * Ph.D  Department of Psychology, New York University, 2017
