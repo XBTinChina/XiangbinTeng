@@ -13,9 +13,9 @@ Full CV can be found [**here**](https://www.dropbox.com/s/k87n7mni4770a5k/CURRIC
 
 Education
 ======
-* Ph.D  Department of Psychology, New York University, 2017
-* M.S.  School of Psychological and Cognitive Sciences, Peking University, 2012
-* B.S.  School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, 2007
+* Ph.D    Department of Psychology, New York University, 2017
+* M.S.    School of Psychological and Cognitive Sciences, Peking University, 2012
+* B.S.    School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, 2007
 
 Work experience
 ======
