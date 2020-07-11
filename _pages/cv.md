@@ -38,28 +38,28 @@ Publications
 5. Teng, X., Tian, X., Doelling, K., & Poeppel, D. (2018). Theta band oscillations reflect more than entrainment: behavioral and neural evidence demonstrates an active chunking process. European Journal of Neuroscience, 48(8), 2770-2782.  (PDF)
 6. Teng, X., Tian, X., Rowland, J., & Poeppel, D. (2017). Concurrent temporal channels for auditory processing: Oscillatory neural entrainment reveals segregation of function at different scales. PLoS biology, 15(11), e2000812.  (PDF)
 7. Teng, X., Tian, X., & Poeppel, D. (2016). Testing multi-scale processing in the auditory system. Scientific reports, 6, 34390.   (PDF)     
-
+ 
 9. Tian, X., Ding, N., Teng, X., Bai, F., & Poeppel, D. (2018). Imagined speech influences perceived loudness of sound. Nature Human Behaviour, 2(3), 225.
 10. Wu, M., Li, H., Gao, Y., Lei, M., Teng, X., Wu, X., & Li, L. (2012). Adding irrelevant information to the content prime reduces the prime-induced unmasking effect on speech recognition. Hearing research, 283(1-2), 136-143. 
-
-
+ 
+ 
 * Conference Proceeding (Peer-reviewed):
 1. Shrestha M, Teng X, Lee S, Noeth U, Poeppel D, Deichmann R (2020). Functional MRI of the Auditory Cortex: Comparison of Different Sequences to investigate Speech and Amplitude Modulated Sounds. In: Proceedings of the 28th annual meeting of ISMRM.
 2. Kong F, Wang X, Teng X, Zheng N, Yu G, Meng Q (2019). Reverberant speech recognition with actual cochlear implants: verifying a pulsatile vocoder simulation method. In: Proceedings of the 23rd International Congress on Acoustics
 3. Teng, X., Poeppel, D. (2019) Experimental evidence on computational mechanisms of concurrent temporal channels for auditory processing, Cognitive Computational Neuroscience 2019
-
-
+ 
+ 
 * Book chapter and review:
 1. Poeppel, D & Teng, X. (submitted) Entrainment in Human Auditory Cortex: Mechanism and Functions
-
-
+ 
+ 
 * Not yet published:
 1. Teng, X., Larrouy-Maestri, P., Poeppel, D. Musical Phrase Tracking and Phase Precession at Ultra-lowFrequencies of EEG Recording (manuscript ready, EEG, MCCA, TRF, and second-order FFT) 
 2. Teng, X.,Poeppel, D. Modulation Spectra Capture Characteristic Neural Responses to Speech Signals in the Delta Band (manuscript ready, EEG, decoding, 1/f)
 3. Teng, X.,Poeppel, D. Cognitive Temporal Map Aids Detection of Future Auditory Events and Modulates Alpha-Beta Oscillations (analyses done, preparing manuscript, EEG, new clustering methods across subjects in 2D spectral domain)
 4. Teng, X., Poeppel, D. Inter-tone Interval Modulates Tonotopic Gradients and Represented Orthogonally to Tonotopy (fMRI) 
-  
-  
+   
+   
 Skill
 ======
 * MEG/EEG, fMRI, and Psychophysics
